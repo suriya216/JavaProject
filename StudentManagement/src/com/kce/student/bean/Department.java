@@ -9,7 +9,6 @@ public class Department extends Student{
         this.departmentName=null;
     }
 
-
     //Parameterized Constructor 
     public Department(int id, String name, String grade, int age, String departmentName) {
         super(id, name, grade, age);
